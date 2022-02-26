@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Berkshire lady's garland: in four parts Cupid's conquest over a coy lady of five thousand a year, who having slighted many noble offers, was compell'd by Cupid, to wed a poor country attorney. The Lady's letter of challenge to fight her upon refusing to wed her in a mask, without knowing who she was. How they met by appointment in a grove, where she oblig'd him to fight or wed her; he con[sen]ted to the latter, took her for better or worse! How they rid together in her gilded coach, to her noble seat or castle, where she plac'd him in a room, an left him some hours alone. And with other things worthy of note.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76431</idno>
+            <idno type="STC">Wing B1979A</idno>
+            <idno type="STC">ESTC R175539</idno>
+            <idno type="EEBO-CITATION">99898007</idno>
+            <idno type="PROQUEST">99898007</idno>
+            <idno type="VID">171005</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171005)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2546:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Berkshire lady's garland: in four parts Cupid's conquest over a coy lady of five thousand a year, who having slighted many noble offers, was compell'd by Cupid, to wed a poor country attorney. The Lady's letter of challenge to fight her upon refusing to wed her in a mask, without knowing who she was. How they met by appointment in a grove, where she oblig'd him to fight or wed her; he con[sen]ted to the latter, took her for better or worse! How they rid together in her gilded coach, to her noble seat or castle, where she plac'd him in a room, an left him some hours alone. And with other things worthy of note.</title>
+               </titleStmt>
+               <extent>8 p. ; 12#20.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Walter, at the hand and Pen in high-holbourn,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>O copy, reel 2546, is tightly bound affecting title transcription.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171005:1" rendition="simple:additions"/>
+            <p>
+               <hi>The</hi> Barkſhire <hi>Lady's Garland: <hi>In Four Parts.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Cupid</hi>'s Conqueſt over a Coy Lady of five thou<g ref="char:EOLhyphen"/>ſand a Year, who having ſlighted many noble Of<g ref="char:EOLhyphen"/>fers, was compell'd by <hi>Cupid,</hi> to wed a poor Country Attorney.</p>
+            <p>The Lady's Letter of Challenge to fight her upon refuſing to wed her in a Mask, without know<g ref="char:EOLunhyphen"/>ing who ſhe was.</p>
+            <p>How they met by appointment in a Grove, where ſhe oblig'd him to fight or wed her; he con<g ref="char:EOLhyphen"/>ſented to the latter, took her for better or worſe.</p>
+            <p>How they rid together in her Gilded Coach, to her noble Seat or Caſtle, where ſhe plac'd him in a Room, an left him ſome Hours alone. And with other things worthy of Note.</p>
+            <figure>
+               <figure>
+                  <figDesc>a lady and gentleman hold hands in a garden of flowers</figDesc>
+               </figure>
+            </figure>
+            <p>Printed for <hi>J: Walter;</hi> at the hand and Pen in <hi>high-holbourn.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="ballad">
+            <pb n="2" facs="tcp:171005:2"/>
+            <head>The <hi>Barkſhire</hi> Lady's Garland,</head>
+            <div n="1" type="part">
+               <head>The Firſt Part.</head>
+               <opener>
+                  <hi>Tune of,</hi> Slaves to <hi>London.</hi>
+               </opener>
+               <l>BAtchelers of e'ry Situtation,</l>
+               <l>Mark this ſtrange and true Relation,</l>
+               <l>Which in brief to you I bring,</l>
+               <l>Never was a ſtranger thing:</l>
+               <l>You ſhall find it worth your hearing</l>
+               <l>Loyal Lvoe is moſt indearing,</l>
+               <l>when it takes the deepeſt Root,</l>
+               <l>Yielding Gold and Charms to Boot.</l>
+               <l>Some will wed for ſtore of Treaſure,</l>
+               <l>But the ſweeteſt Joy and Pleaſure,</l>
+               <l>Is in faithful Love you'll find,</l>
+               <l>Graced with a noble Mind.</l>
+               <l>Such a noble Diſpoſition,</l>
+               <l>Had this Lady, with Submiſſion;</l>
+               <l>Of whom I this Sonnet write,</l>
+               <l>Store of Wealth, and Beauty bright:</l>
+               <l>She had leſt by a good Grannum,</l>
+               <l>Full five thouſand Pound per Annum,</l>
+               <l>Which ſhe hell'd without controle;</l>
+               <l>Thus did ſhe in Riches roll,</l>
+               <l>Tho' ſhe had vaſt ſtore of Riches</l>
+               <l>Which ſome Perſons much bewitches,</l>
+               <l>Yet ſhe bore a courteous mind,</l>
+               <l>Not the leaſt to pride inclin'd.</l>
+               <l>Many noble Perſons courted,</l>
+               <l>This Young Lady 'tis reported:</l>
+               <l>But their Labour prov'd in vain,</l>
+               <l>They could not her Favour gain:</l>
+               <pb facs="tcp:171005:2"/>
+               <l>Yet by <hi>Cupid</hi>'s true aſſiſtance,</l>
+               <l>She was conquer'd after all;</l>
+               <l>How it was, declare I ſhall:</l>
+               <l>Being at a noble Wedding,</l>
+               <l>Near the famous Town of <hi>Reading,</hi>
+               </l>
+               <l>A young genteel Man ſhe ſaw,</l>
+               <l>VVho belonged to the Law,</l>
+               <l>As ſhe view'd his ſweet Behaviour,</l>
+               <l>T'ry courteous Carriage gave her</l>
+               <l>New Addition to her Grief;</l>
+               <l>Force ſhe was to ſeek Relief.</l>
+               <l>Privately ſhe then enquir'd,</l>
+               <l>About him, ſo much admir'd,</l>
+               <l>Both his Name, and where he dwelt,</l>
+               <l>Such was the hot Flames ſhe felt.</l>
+               <l>Thenat Night this youthful Lady,</l>
+               <l>Call'd her Coach, which being ready;</l>
+               <l>Homeward ſtraight ſhe did return,</l>
+               <l>But her Heart in Flames did burn.</l>
+            </div>
+            <div n="2" type="part">
+               <head>Part Second.</head>
+               <l>NIght and Morning for a Seaſon,</l>
+               <l>In her Cloſet vvou'd ſhe Reaſon</l>
+               <l>VVith herſelf, and often ſaid,</l>
+               <l>
+                  <hi>Why has my Love my Heart betray'd?</hi>
+               </l>
+               <l>
+                  <hi>I that have ſo many ſlighted,</hi>
+               </l>
+               <l>
+                  <hi>Am at length as well requited,</hi>
+               </l>
+               <l>
+                  <hi>For my Grieſs are not a few;</hi>
+               </l>
+               <l>
+                  <hi>Now I find what Love can do.</hi>
+               </l>
+               <l>
+                  <hi>He that has my Heart in keeping,</hi>
+               </l>
+               <l>
+                  <hi>Tho' I for his ſqake lye weeping,</hi>
+               </l>
+               <l>
+                  <hi>Little knows what Grief I feel;</hi>
+               </l>
+               <l>
+                  <hi>But i'll try it out with Steel.</hi>
+               </l>
+               <pb n="4" facs="tcp:171005:3"/>
+               <l>
+                  <hi>For I will a Challenge ſend him,</hi>
+               </l>
+               <l>
+                  <hi>And appoint, where i'll attend him</hi>
+               </l>
+               <l>
+                  <hi>In a Grove without delay,</hi>
+               </l>
+               <l>
+                  <hi>By the Dawning of the Day.</hi>
+               </l>
+               <l>
+                  <hi>He ſhall not the leaſt diſcover,</hi>
+               </l>
+               <l>
+                  <hi>That I am a Virgin Lover,</hi>
+               </l>
+               <l>
+                  <hi>By the Challenge which I ſend,</hi>
+               </l>
+               <l>
+                  <hi>But for Juſtice I contend.</hi>
+               </l>
+               <l>
+                  <hi>He has cauſed ſad Diſtraction.</hi>
+               </l>
+               <l>
+                  <hi>And I come for Satisfaction,</hi>
+               </l>
+               <l>
+                  <hi>Which if he denys to give,</hi>
+               </l>
+               <l>
+                  <hi>One of us ſhall ſeaſe Relief.</hi>
+               </l>
+               <l>Having thus her Mind revealed,</l>
+               <l>she Letter clos'd and ſealed;</l>
+               <l>Nwo when it came to his Hand,</l>
+               <l>The young Man was at a ſtand.</l>
+               <l>In her Letter ſhe conjur'd him,</l>
+               <l>For to meet, and well aſſur'd him,</l>
+               <l>Recompence he muſt afford,</l>
+               <l>Or diſpute it with a Sword.</l>
+               <l>Having read this ſtrange Relation,</l>
+               <l>He was in a Conſternation;</l>
+               <l>Then adviſing with his Friend,</l>
+               <l>He perſuades him to attend.</l>
+               <l>Be of Courage, and make ready,</l>
+               <l>Faint Heart never won fair Lady;</l>
+               <l>In regard it muſt be ſo,</l>
+               <l>I along with you will go.</l>
+            </div>
+            <div n="3" type="part">
+               <head>Part Third.</head>
+               <l>EArly on a Summer's Morning,</l>
+               <l>While bright <hi>Phaebus</hi> was adorning</l>
+               <l>E'ry Bower, with his Beams,</l>
+               <l>A fair Lady came it ſeems,</l>
+               <pb n="5" facs="tcp:171005:3"/>
+               <l>At the bottom of a Mountain,</l>
+               <l>Near a pleaſant chriſtial Fountain,</l>
+               <l>There ſhe left her gilded Coach,</l>
+               <l>While the Grover ſhe did approach.</l>
+               <l>Cover'd with her Mask, and walking,</l>
+               <l>There ſhe met her Lover talking</l>
+               <l>With a Friend, that he had brought,</l>
+               <l>Straight ſhe ask'd him who he ſought.</l>
+               <l>I am Challeng'd by a Gallant,</l>
+               <l>You reſolve to try my Tallant;</l>
+               <l>What he is, I cannot ſay,</l>
+               <l>But I hope to ſhow him play.</l>
+               <l>Lady.] <hi>It is I, that did invite you!</hi>
+               </l>
+               <l>
+                  <hi>You ſhall Wed me, or i'll fight you</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nderneath thoſe ſpreading Trees,</hi>
+               </l>
+               <l>
+                  <hi>Therefore chuſe you, which you pleaſe</hi>
+               </l>
+               <l>
+                  <hi>You ſhall find I do not Vaper,</hi>
+               </l>
+               <l>
+                  <hi>I have brought my truſty Rapier;</hi>
+               </l>
+               <l>
+                  <hi>Therefore take your choice,</hi> ſays ſhe,</l>
+               <l>
+                  <hi>Either fight, or Marry me.</hi>
+               </l>
+               <l>Said he, Madam, pray what mean ye,</l>
+               <l>In my Life I ne'r have ſeen ye:</l>
+               <l>Pray unmask, your Viſage ſhow,</l>
+               <l>Then i'll tell you, aye or no?</l>
+               <l>L.] <hi>I will not my Face uncover,</hi>
+               </l>
+               <l>
+                  <hi>Till the Marriage rights are over;</hi>
+               </l>
+               <l>
+                  <hi>Therefore chuſe now which you will,</hi>
+               </l>
+               <l>
+                  <hi>Wed me, Sir, or try your skill.</hi>
+               </l>
+               <l>
+                  <hi>Step within that pleaſant Bower,</hi>
+               </l>
+               <l>
+                  <hi>With your Friend one ſingle Hour,</hi>
+               </l>
+               <l>
+                  <hi>Strive your Thoughts to reconcile,</hi>
+               </l>
+               <l>
+                  <hi>And i'll wander here the while.</hi>
+               </l>
+               <l>While the charming Lady waighted,</l>
+               <l>The young Batchelor debated,</l>
+               <pb facs="tcp:171005:4"/>
+               <l>Quoth his Friend <hi>The hazard run.</hi>
+               </l>
+               <l>
+                  <hi>If my Judgment may be truſted,</hi>
+               </l>
+               <l>
+                  <hi>Wea her, Sir, you can't be worſted:</hi>
+               </l>
+               <l>
+                  <hi>If ſhe's rich you'll riſe to Fame;</hi>
+               </l>
+               <l>
+                  <hi>If ſhe's poor, why, you're the ſame.</hi>
+               </l>
+               <l>He conſented to be married,</l>
+               <l>In the Coach they all was carry'd,</l>
+               <l>To a Church without delay</l>
+               <l>Where he Weds the Lady gay,</l>
+               <l>Thoſe ſweet pretty <hi>Cupids</hi> hover'd</l>
+               <l>Round her Eyes; her face was cover'd</l>
+               <l>With a Mask, he took her thus,</l>
+               <l>Juſt for better, or for worſe.</l>
+               <l>With a courteous kind Behaviour,</l>
+               <l>She preſents his Friends a Favour;</l>
+               <l>And withal diſmiſs'd him ſtraight,</l>
+               <l>That he might no longer wait.</l>
+            </div>
+            <div n="4" type="part">
+               <head>Part Fourth.</head>
+               <l>AS the gilded Cocach ſtood ready,</l>
+               <l>The young Lawyer and his Lady,</l>
+               <l>Rid together till they came</l>
+               <l>To her Houſe of ſtate and ſame.</l>
+               <l>Which appeared like a Caſtle,</l>
+               <l>Where he might behold a parcel</l>
+               <l>Of young Ceaders tall and ſtraight,</l>
+               <l>Juſt before her Palace-gate.</l>
+               <l>Hand in Hand they walk'd together,</l>
+               <l>To a Hall, or Parlour rather,</l>
+               <l>Which was Beautiful and fair,</l>
+               <l>All alone ſhe left him there.</l>
+               <l>Two long Hours there he waited,</l>
+               <l>Her return, at length he fretted;</l>
+               <pb n="7" facs="tcp:171005:4"/>
+               <l>And began to grieve at laſt,</l>
+               <l>For he had not broke his faſt,</l>
+               <l>Still he ſat like one amazed,</l>
+               <l>Round a ſpacious Room he gazed,</l>
+               <l>Which was richly beautify'd,</l>
+               <l>But, alas, he'd loſt his Bride.</l>
+               <l>There was peeping laughing, fleering,</l>
+               <l>All within the Lawyers hearing;</l>
+               <l>But his Bride he could not ſee,</l>
+               <l>Wou'd I was at home thought he.</l>
+               <l>While his Heart was melancholy,</l>
+               <l>Said, the Steward, brisk and jolly,</l>
+               <l>
+                  <hi>Tell me Friend, how came you here,</hi>
+               </l>
+               <l>
+                  <hi>You have ſome deſign I fear?</hi>
+               </l>
+               <l>He reply'd, Dear loving Maſter,</l>
+               <l>You ſhall meet with no Diſaſter,</l>
+               <l>Thro' my means in any caſe,</l>
+               <l>Madam, brought me to this place,</l>
+               <l>Then the Steward did retire,</l>
+               <l>Saying, That he would enquire</l>
+               <l>Wherthe it was true or no;</l>
+               <l>Ne'r was Lover hamper'd ſo</l>
+               <l>Now the Lady who had fill'd him</l>
+               <l>With thoſe Fears, full well beheld him</l>
+               <l>From a Window, where ſhe dreſt,</l>
+               <l>Pleaſed at the pleaſant jeſt,</l>
+               <l>When ſhe had herſelf attir'd,</l>
+               <l>In rich Robes to be admir'd;</l>
+               <l>Like a moving Anlge bright,</l>
+               <l>She appeared in his ſight.</l>
+               <l>L.] <hi>Sir, my Servants have related</hi>
+               </l>
+               <l>How you have ſome hours waited</l>
+               <pb n="8" facs="tcp:171005:5"/>
+               <l>
+                  <hi>In my Parlour, tell me who,</hi>
+               </l>
+               <l>
+                  <hi>In my Houſe you ever knew.</hi>
+               </l>
+               <l>Madam, if I have offended,</l>
+               <l>It was more than I Intended;</l>
+               <l>A young Lady brought me here:</l>
+               <l>
+                  <hi>That is true,</hi> ſaid ſhe, <hi>my Dear,</hi>
+               </l>
+               <l>
+                  <hi>I can be no longer cruel,</hi>
+               </l>
+               <l>
+                  <hi>To my Joy and only Jewel;</hi>
+               </l>
+               <l>
+                  <hi>Thou art mine, and I am thine,</hi>
+               </l>
+               <l>
+                  <hi>Hand and Heart I do reſigne.</hi>
+               </l>
+               <l>
+                  <hi>Once I was thy wounded Lover,</hi>
+               </l>
+               <l>
+                  <hi>Now thoſe Fears are clearly over,</hi>
+               </l>
+               <l>
+                  <hi>By receiving what I gave,</hi>
+               </l>
+               <l>
+                  <hi>Thou art Lord of all have.</hi>
+               </l>
+               <l>Beauty, honour, love and treaſure,</l>
+               <l>A rich Golden ſtream of Pleaſure,</l>
+               <l>VVith his Lady he enjoys,</l>
+               <l>Thanks to <hi>Cupid</hi>'s kind decoys.</l>
+               <l>Now he's cloth'd in rich Attire,</l>
+               <l>Not Inferiour to a 'Squire;</l>
+               <l>Beauty, honour, riches ſtore,</l>
+               <l>VVhat can Man deſire more,</l>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Enter acording to Order.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
